@@ -1,13 +1,13 @@
-<svg width="75" height="28" viewBox="0 0 75 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_1045_1722)">
-<path d="M60.0062 0.141113H47.8264V11.7912H60.0062V0.141113Z" fill="black"/>
-<path d="M60.0062 16.0276H47.8264V27.6777H60.0062V16.0276Z" fill="black"/>
-<path d="M74.8333 0.141113H62.6538V27.6777H74.8333V0.141113Z" fill="black"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0.166748 0.141113H8.11H12.3464L16.5828 13.9094V0.141113H24.526H28.7624L32.9988 13.9094V0.141113H45.1785V27.6777H37.2352H32.9988L28.7624 13.9094V27.6777H20.8192H16.5828L12.3464 13.9094V27.6777H0.166748V0.141113Z" fill="black"/>
-</g>
-<defs>
-<clipPath id="clip0_1045_1722">
-<rect width="75" height="28" fill="white"/>
-</clipPath>
-</defs>
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fgGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00C9FF" />
+      <stop offset="100%" stop-color="#92FE9D" />
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M60 40 L90 70 L60 100 L30 70 Z" fill="url(#fgGrad)" />
+    <rect x="48" y="64" width="24" height="24" fill="#fff"/>
+    <text x="120" y="90" font-family="Verdana" font-size="54" fill="#333">FinGuard</text>
+  </g>
 </svg>

@@ -1,13 +1,7 @@
-<svg width="75" height="28" viewBox="0 0 75 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_1045_1722)">
-<path d="M60.0062 0.141113H47.8264V11.7912H60.0062V0.141113Z" fill="black"/>
-<path d="M60.0062 16.0276H47.8264V27.6777H60.0062V16.0276Z" fill="black"/>
-<path d="M74.8333 0.141113H62.6538V27.6777H74.8333V0.141113Z" fill="black"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0.166748 0.141113H8.11H12.3464L16.5828 13.9094V0.141113H24.526H28.7624L32.9988 13.9094V0.141113H45.1785V27.6777H37.2352H32.9988L28.7624 13.9094V27.6777H20.8192H16.5828L12.3464 13.9094V27.6777H0.166748V0.141113Z" fill="black"/>
-</g>
-<defs>
-<clipPath id="clip0_1045_1722">
-<rect width="75" height="28" fill="white"/>
-</clipPath>
-</defs>
+<svg width="220" height="60" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="20" r="6" fill="#6EE7B7"/>
+  <line x1="20" y1="20" x2="20" y2="40" stroke="#10B981" stroke-width="2"/>
+  <circle cx="20" cy="40" r="6" fill="#34D399"/>
+  <rect x="35" y="15" width="4" height="30" fill="#A7F3D0"/>
+  <text x="50" y="35" font-family="Arial" font-size="20" fill="#065F46">TaskTree</text>
 </svg>
